@@ -459,7 +459,7 @@
       '<div class="roi-row total"><span>Net annual effect</span><b>' + (net >= 0 ? "" : "-") + Math.abs(net).toFixed(1) + "</b></div>" +
       '<div class="roi-row"><span>Return on investment</span><b>' + roi + "%</b></div>" +
       '<div class="roi-row"><span>Payback</span><b>' + (payback >= 99 ? "n/a" : payback.toFixed(1) + " months") + "</b></div>" +
-      '<p class="roi-note">Illustrative arithmetic on placeholder inputs, not a forecast. Faster scale-up = use cases x value x time saved. To be replaced with PSA baselines.</p>';
+      '<p class="roi-note">Illustrative arithmetic on placeholder inputs, not a forecast. Faster scale-up = use cases x value x time saved. To be replaced with the Port Authority&#39;s own baselines.</p>';
   }
 
   /* ---------- 9. roadmap ---------- */

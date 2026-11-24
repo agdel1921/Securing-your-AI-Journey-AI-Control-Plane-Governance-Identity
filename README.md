@@ -55,9 +55,9 @@ If the audience should not see it publicly, use a **private repository** with Gi
 
 ## Before the meeting: things to check
 
-1. **Simulated data**: `js/data.js` holds agents, events, regional status and the roadmap. Adjust names and regions to fit PSA's context. Nothing in it is real PSA data.
+1. **Simulated data**: `js/data.js` holds agents, events, regional status and the roadmap. Adjust names and regions to fit the Port Authority's context. Nothing in it is real Port Authority data.
 2. **Regulatory wording**: the compliance grid is illustrative. Have Legal and Compliance confirm any statement about specific laws (for example EU AI Act, NIS2, GDPR, national data laws) before it is shown as fact.
-3. **Value model**: the sliders use placeholder numbers. Do not present the outputs as a forecast. Offer to replace them with PSA baselines in a follow-up workshop.
+3. **Value model**: the sliders use placeholder numbers. Do not present the outputs as a forecast. Offer to replace them with the Port Authority's own baselines in a follow-up workshop.
 4. **Branding**: colours are set in `:root` at the top of `css/styles.css`. Add a logo only if you have permission to use it.
 5. **Rehearse** the policy simulator (scene 6) and the control plane pause (scene 7). They are the two moments that land best with executives.
 

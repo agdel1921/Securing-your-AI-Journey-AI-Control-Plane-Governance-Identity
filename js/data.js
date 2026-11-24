@@ -143,7 +143,7 @@ window.DEMO = {
     "This is the heart of the demo. Pick a scenario, change the autonomy level and where the agent runs. Show that the same request gets different, explainable outcomes. Finish on the safety-critical scenario: some actions are never delegated. (5 min)",
     "The control plane is the shared cockpit across regions. Let the feed run. Click 'Pause' on an agent to show the kill switch and the fall-back to manual operations. Emphasise resilience and 24/7 operations. (3 min)",
     "Regulation differs by region, but the control framework can be one. Click cells to show what each means. Be open that the red cells are where to focus first. Confirm exact legal positions with Legal and Compliance. (3 min)",
-    "Move the sliders. All figures are illustrative placeholders. Offer to replace them with PSA's own baselines in a follow-up working session. The main point: governance is what unlocks scale, not what slows it. (4 min)",
+    "Move the sliders. All figures are illustrative placeholders. Offer to replace them with the Port Authority's own baselines in a follow-up working session. The main point: governance is what unlocks scale, not what slows it. (4 min)",
     "Close with the three-horizon roadmap and the four decisions. Ask for agreement on the first 90 days and an executive sponsor. (3 min)"
   ]
 };
